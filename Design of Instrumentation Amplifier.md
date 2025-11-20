@@ -59,6 +59,6 @@ waveforms are plotted in a graph sheet.
 ![WhatsApp Image 2025-11-20 at 22 12 14_cc28b5ca](https://github.com/user-attachments/assets/be41f6c4-98dc-4c90-aa72-22603924cd97)
 
  ## RESULTS:
- Thus an instrumentation amplifier was constructed and  tested using op
+Thus an instrumentation amplifier was constructed and  tested using op
 amp IC 741. 
  
