@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-20 at 22 00 34_caee4e56](https://github.com/user-attachments/assets/a587898b-9f4b-4746-bc73-802ef5596430)# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 # DIFFERENTIATOR
 
 ## AIM:
