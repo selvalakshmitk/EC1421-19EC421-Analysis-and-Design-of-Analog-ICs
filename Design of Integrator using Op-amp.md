@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-20 at 22 17 11_a3effed8](https://github.com/user-attachments/assets/59363635-2e57-4f6a-b507-3a66bc04c26d)# EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
+# EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Integrator using Op-amp.
 
 ## AIM:
